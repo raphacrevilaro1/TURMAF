@@ -6,6 +6,11 @@
     background: #CCCCCC
 }
 
+#banner {
+      width:100%
+}
+
+
 em strong {
     color: purple;
 }
