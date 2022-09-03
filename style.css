@@ -29,6 +29,10 @@ h2 {
    text-align: center;
 }
 
+ul {
+  display: inline-block;
+}
+
 .imagembenefícios {
       width: 50%;
 }
