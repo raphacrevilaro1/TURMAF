@@ -3,8 +3,12 @@
    <head>
        <meta charset="UTF-8">
        <title>Produtos - Rboutique</title>
+       <link rel="stylesheet" href="produtos.css"
     </head>
     <body>
+        <header>
+         <h1><img src="Free_Sample_By_Wix.png"></h1>
+         </header>
     </body>
 
 </html>
